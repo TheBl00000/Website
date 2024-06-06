@@ -27,4 +27,5 @@ a { color: blue;
   text-align: center;
   outline: 3px solid blue;
   margin: 0 10px;
+  border-radius: 10%;
   }
